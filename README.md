@@ -1,4 +1,4 @@
-# AdventureWorks-Sales-Report-End-to-end-data-analysis-project-using-Power-BI
+# AdventureWorks Sales Report end-to-end data analysis project using PowerBI
 
 Project Overview
 
