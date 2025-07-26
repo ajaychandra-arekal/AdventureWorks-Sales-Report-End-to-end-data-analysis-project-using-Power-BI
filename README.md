@@ -7,19 +7,19 @@ This project presents a comprehensive Business Intelligence solution for Adventu
 The dashboard was developed as part of Udemy Power BI Desktop course.
 
 # Business Questions Explored
-	•	What are the key KPIs for sales, revenue, profit, and return rate?
-	•	How has revenue changed over time, and are there seasonal trends?
-	•	Which products or categories are most profitable and which have the highest return rates?
-	•	How does sales performance vary by region?
-	•	Who are the high-value customers, and what are their demographic profiles?
-	•	What strategies can be informed by the data to improve sales and reduce returns?
+• What are the key KPIs for sales, revenue, profit, and return rate?
+• How has revenue changed over time, and are there seasonal trends?
+• Which products or categories are most profitable and which have the highest return rates?
+• How does sales performance vary by region?
+• Who are the high-value customers, and what are their demographic profiles?
+• What strategies can be informed by the data to improve sales and reduce returns?
 
 
 # Tools & Technologies
-	•	Microsoft Power BI Desktop – Data modeling, DAX calculations, and dashboard development
-	•	Power Query  – Data extraction, cleaning, and transformation (ETL)
-	•	DAX (Data Analysis Expressions) – Custom measures and calculated columns
-	•	Microsoft Excel / CSV – Source data files
+• Microsoft Power BI Desktop – Data modeling, DAX calculations, and dashboard development
+• Power Query  – Data extraction, cleaning, and transformation (ETL)
+• DAX (Data Analysis Expressions) – Custom measures and calculated columns
+• Microsoft Excel / CSV – Source data files
 
 
 # Project Phases and Key Learnings
@@ -53,11 +53,11 @@ Learning: Developed a strong foundation in designing clean, user-friendly, and i
 
 
 # Key Insights
-	•	Product Performance: Bikes generated the most revenue and profit. Accessories had high sales volume but lower value per unit.
-	•	Regional Trends: The United States led in total sales, while Australia showed a higher average revenue per customer.
-	•	Seasonality: Sales peaked in December, indicating holiday-driven demand. Fluctuations during mid-2020 suggest external market influences.
-	•	Customer Segments: Identified high-value customer groups based on demographic variables like education level and occupation.
-	•	Returns Analysis: Shorts had a significantly higher return rate, highlighting a potential product quality or customer expectation issue.
+• Product Performance: Bikes generated the most revenue and profit. Accessories had high sales volume but lower value per unit.
+• Regional Trends: The United States led in total sales, while Australia showed a higher average revenue per customer.
+• Seasonality: Sales peaked in December, indicating holiday-driven demand. Fluctuations during mid-2020 suggest external market influences.
+• Customer Segments: Identified high-value customer groups based on demographic variables like education level and occupation.
+• Returns Analysis: Shorts had a significantly higher return rate, highlighting a potential product quality or customer expectation issue.
 
 
 # Repository Contents
