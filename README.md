@@ -24,28 +24,28 @@ The dashboard was developed as part of Udemy Power BI Desktop course.
 
 # Project Phases and Key Learnings
 
-1. Data Acquisition & Transformation
+# Data Acquisition & Transformation
 
 Process: Connected multiple CSV files covering sales, returns, customers, products, and calendar data. Cleaned and transformed the data using Power Query (e.g., type conversions, column splitting, handling missing values).
 
 Learning: Gained hands-on experience in Power Query for efficient ETL and ensuring data quality for reliable analysis.
 
 
-# 2. Data Modeling
+# Data Modeling
 
 Process: Designed a star schema data model linking fact tables (Sales, Returns) to dimension tables (Customer, Product, Calendar, Territory). Built one-to-many relationships to support accurate filtering and slicing.
 
 Learning: Strengthened understanding of data modeling best practices, cardinality, and filter context for scalable and high-performing models.
 
 
-# 3. DAX Calculations
+# DAX Calculations
 
 Process: Developed calculated columns and measures including Total Revenue, Profit, Return Rate, Year-over-Year Growth, and Profit Margin.
 
 Learning: Advanced skills in DAX, including use of time-intelligence functions and row context manipulation for dynamic, reusable metrics.
 
 
-# 4. Interactive Dashboard Design
+# Interactive Dashboard Design
 
 Process: Built a multi-page Power BI dashboard with sections for executive summary, product insights, geographic trends, and customer analysis. Included various visuals like cards, line and bar charts, maps, and tables with interactive slicers and drill-throughs.
 
